@@ -1,0 +1,12 @@
+langchain>=0.2.0
+langchain-cohere>=0.1.0
+langchain-community>=0.0.16
+cohere>=4.40
+openai>=1.30.1
+chromadb>=0.4.24
+python-dotenv
+PyMuPDF
+pdf2image
+pytesseract
+langdetect
+streamlit
