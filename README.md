@@ -56,18 +56,18 @@ This provides a rough confidence estimate for users.
 ## 🔎 Example Q&A
 ```
 examples/
-├── qa_1.png
-├── qa_2.png
-├── qa_3.png
-├── qa_4.png
-└── qa_5.png
+├── qna_1.jpg
+├── qna_2.jpg
+├── qna_3.jpg
+├── qna_4.jpg
+└── qna_5.jpg
 ```
 
-![qa_1](examples/qa_1.png)
-![qa_2](examples/qa_2.png)
-![qa_3](examples/qa_3.png)
-![qa_4](examples/qa_4.png)
-![qa_5](examples/qa_5.png)
+![qa_1](examples/qna_1.jpg)
+![qa_2](examples/qna_2.jpg)
+![qa_3](examples/qna_3.jpg)
+![qa_4](examples/qna_4.jpg)
+![qa_5](examples/qna_5.jpg)
 
 ---
 
