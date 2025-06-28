@@ -86,7 +86,7 @@ This provides a rough confidence estimate for users.
    ```
 ---
 
-## 🚀 Improvements & Next Steps
+## 🚀 Improvements 
 - Use advanced topic classification from content.
 - Support PDF/CSV uploads via Streamlit for dynamic use.
 - Add multilingual summarization or translation features.
