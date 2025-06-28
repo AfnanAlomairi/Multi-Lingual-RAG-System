@@ -54,15 +54,20 @@ This provides a rough confidence estimate for users.
 ---
 
 ## 🔎 Example Q&A
-**Q:** What are the packaging recommendations?
+```
+examples/
+├── qa_1.png
+├── qa_2.png
+├── qa_3.png
+├── qa_4.png
+└── qa_5.png
+```
 
-**A:**
-1. Strengthen packaging procedures to preserve freshness.  
-2. Regularly audit the temperature in storage units.  
-3. Enhance weekend shift training for QC staff.
-
-**Sources:** `report_04_packaging.txt`, `report_08_packaging.pdf`  
-**Trust Score:** 100/100
+![qa_1](examples/qa_1.png)
+![qa_2](examples/qa_2.png)
+![qa_3](examples/qa_3.png)
+![qa_4](examples/qa_4.png)
+![qa_5](examples/qa_5.png)
 
 ---
 
