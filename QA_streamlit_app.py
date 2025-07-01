@@ -43,8 +43,8 @@ llm = ChatCohere(cohere_api_key=COHERE_API_KEY, model="command-r-plus")
 qa_chain = RetrievalQAWithSourcesChain.from_chain_type(llm=llm, retriever=retriever)
 
 # Streamlit UI
-st.title("📘 Multilingual Q&A System with Feedback")
-query = st.text_input("Enter your question (English or Arabic):")
+st.title("📘 Multilingual Q&A System")
+query = st.text_input("Ask your question:", placeholder="e.g. ما هي ملاحظات التقرير الأول؟")
 
 if query:
     result = qa_chain.invoke({"question": query})
